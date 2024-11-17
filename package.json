@@ -1,7 +1,6 @@
 {
   "name": "serverNodeiot",
   "version": "1.0.0",
-  "mongoose": "^6.7.1",
   "type": "module",
   "description": "",
   "main": "server.js",
@@ -13,6 +12,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "mongoose": "^6.7.1"
   }
 }
