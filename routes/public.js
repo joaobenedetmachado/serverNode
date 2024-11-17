@@ -1,6 +1,7 @@
 import express from 'express';
-import DataModel from '../models/data.js'; // Importando o modelo
+import DataModel from '../models/model.js';
 import connectDB from '../db.js'; // Importando a conexão com o DB
+
 
 connectDB(); // Conectando ao banco de dados antes de criar as rotas
 
