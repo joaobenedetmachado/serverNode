@@ -1,5 +1,5 @@
 import express from 'express';
-import DataModel from '../models/model.js';
+import DataModel from '../model.js';
 import connectDB from '../db.js'; // Importando a conexão com o DB
 
 
